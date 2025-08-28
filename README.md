@@ -62,7 +62,7 @@ This project aims to **automate rice classification** using numerical features d
 ## 🚀 How to Run
 ```bash
 # Clone repo
-git clone https://github.com/your-username/rice-classification-pytorch.git
+git clone https://github.com/cadetsikandar/rice-classification-pytorch.git
 cd rice-classification-pytorch
 
 # Install dependencies
