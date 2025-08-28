@@ -13,7 +13,7 @@ This project aims to **automate rice classification** using numerical features d
 ---
 
 ## 🧠 Dataset
-- Source: [Kaggle Rice Classification Dataset](https://www.kaggle.com/datasets/muratkokludataset/riceclassification)  
+- Source: [Kaggle Rice Classification Dataset](https://www.kaggle.com/datasets/mssmartypants/rice-type-classification)  
 - Size: ~18,000 samples  
 - Features:  
   - `Area`, `MajorAxisLength`, `MinorAxisLength`, `Eccentricity`, `ConvexArea`,  
