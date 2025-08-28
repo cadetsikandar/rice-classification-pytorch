@@ -53,7 +53,7 @@ This project aims to **automate rice classification** using numerical features d
 ---
 
 ## 📈 Results
-- Achieved **XX% accuracy** on test set  
+- Achieved **98% accuracy** on test set  
 - Model outperformed baseline ML classifiers (Logistic Regression, Random Forest)  
 - Training and evaluation curves are available in `results/`  
 
